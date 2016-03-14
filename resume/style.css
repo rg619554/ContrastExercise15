@@ -1,0 +1,47 @@
+body{
+  background-color: gray;
+  border: thick;
+}
+
+h1{
+  font-family: "Georgia";
+  margin-left: 34%;
+  color: orange;}
+
+li{
+    font-weight: bold;
+}
+
+
+#contact{
+  margin-left: 40%;
+  color: white;
+}
+h3{
+  color: orange;
+  font-family: "Georgia";
+  font-size: 22px;
+}
+
+h2{
+  font-family: "Georgia";
+  color: orange;
+  margin-left: 30%;
+}
+#objective{
+  width: 25%;
+  float: left;
+}
+#highlights{
+  width: 30%;
+  float:left;
+  margin-left:40%;
+}
+div{
+  color: white;
+  font-size: 20px;
+}
+
+ul{
+margin-left: 10%;
+font-size: 18px;}
